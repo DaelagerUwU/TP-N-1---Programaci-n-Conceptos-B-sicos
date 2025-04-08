@@ -1,0 +1,1 @@
+si la nota promedio es igual o mayor a 7, el alumno promociona, si es mayor o igual a 4, regular, y si es menor a 4 reprueba
